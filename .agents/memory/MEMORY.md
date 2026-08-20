@@ -1,0 +1,1 @@
+- [Production asset paths](production-asset-paths.md) — Keep imported asset directory casing identical in code because Linux deployment hosts are case-sensitive.
