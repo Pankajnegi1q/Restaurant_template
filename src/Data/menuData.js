@@ -1,4 +1,4 @@
-import heroFood from "../assets/images/hero-food.png.webp";
+import heroFood from "../assets/Images/hero-food.png.webp";
 
 const menuData = [
   {

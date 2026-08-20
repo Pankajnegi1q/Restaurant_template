@@ -1,4 +1,4 @@
-import heroFood from "../assets/images/hero-food.png.webp"; // Change to .jpg if your image is jpg
+import heroFood from "../assets/Images/hero-food.png.webp"; // Change to .jpg if your image is jpg
 
 function SignatureDishes() {
   return (

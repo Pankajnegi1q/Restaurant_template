@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
 import Button from "../Components/Button";
-import heroFood from "../assets/images/hero-food.png.webp";
+import heroFood from "../assets/Images/hero-food.png.webp";
 
 function Hero() {
   return (

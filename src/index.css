@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: "Cinzel";
-  src: url("./assets/fonts/Cinzel-Regular.ttf");
+  src: url("./assets/Fonts/Cinzel-Regular.ttf");
 }
 
 @font-face {
   font-family: "Poppins";
-  src: url("./assets/fonts/Poppins-Regular.ttf");
+  src: url("./assets/Fonts/Poppins-Regular.ttf");
 }
 
     body {
